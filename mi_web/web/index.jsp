@@ -1,8 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : 25/05/2017, 01:02:25 PM
-    Author     : josuedaniel
---%>
 <%@page import="java.sql.Types"%>
 <%@page import="java.util.ArrayList"%>
 <%@page import="logica.Producto"%>
@@ -16,7 +11,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title id="titulo">Jardín de Hurón</title>
+        <title id="titulo">Lovecraft</title>
         <link rel="stylesheet" href="css/main.css">
         
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
