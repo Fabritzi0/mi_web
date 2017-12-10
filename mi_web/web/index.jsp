@@ -12,8 +12,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title id="titulo">Lovecraft</title>
-        <link rel="stylesheet" href="css/main.css">
-        
+        <link rel="stylesheet" href="css/main.css">        
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
         
         <script type="text/javascript">
@@ -30,7 +29,7 @@
             <a  class="button" onClick="cargaURL('presentacion.html', 'Inicio')"><span>Inicio</span></a>
         </div>
     </head>
-    <body onload="cargaURL('presentacion.html', 'Inicio')">
+    <body onload="cargaURL('presentacion.html', 'Lovecraft')">
        <iframe class="area-desplegado" id="marco-desplegado" name="marco-desplegado" frameborder="0"></iframe>
     </body>
 </html>
