@@ -12,7 +12,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Jardin de huron</title>
+        <title>Lovecraft</title>
     </head>
     <body>
         <table border=".5">
