@@ -27,7 +27,8 @@
             <img src="images/piramide.png" class="w3-round" alt="ejercicio2">
             <br>
             <br>
-            <br>
         </form>
+        <br>
+        <br>
     </body>
 </html>

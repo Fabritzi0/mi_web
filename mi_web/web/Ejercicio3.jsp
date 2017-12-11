@@ -37,5 +37,8 @@
             <br>
             <input class="w3-input w3-animate-input" type="text" placeholder="Cuantas veces encontraste las palabras" style="width:1000px">
             <br>
+        </form>
+        <br>
+        <br>
     </body>
 </html>

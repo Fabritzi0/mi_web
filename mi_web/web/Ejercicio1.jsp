@@ -31,7 +31,10 @@
                 -¡Basta ya de fingir, malvados! -aullé-. ¡Confieso que lo maté! ¡Levanten esos tablones! ¡Ahí… ahí!¡Donde está latiendo su horrible corazón!
 
             </p>
+            <br>
+            <br>
         </form>
-        
+        <br>
+        <br>
     </body>
 </html>
