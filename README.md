@@ -1,3 +1,3 @@
-# mi_web
-mi_web
+# Lovecraft
+Sistema de lectura acelerada.
 prueba
