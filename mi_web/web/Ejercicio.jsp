@@ -11,6 +11,9 @@
         <p>
             Bienvenido a tu primer ejercicio del curso. Instrucciones...
         </p>
+        <%@ include file="cronometro.html" %>
+        <br>
+        <br>
         <form class="w3-container">
             <img src="images/frase-mitad-1.png" class="w3-round" alt="ejercicio1">
             <input class="w3-input w3-animate-input" type="text" placeholder="R1" style="width:135px">
@@ -41,7 +44,7 @@
             <br>
             <br>
         </form>
-        <%@ include file="cronometro.html" %>
+        
     </body>
     
 </html>
