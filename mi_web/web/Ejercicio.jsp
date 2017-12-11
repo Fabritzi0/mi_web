@@ -18,7 +18,7 @@
             Despues de leer las instrucciones deberas iniciar el cronometro.
         </p>
         <p>
-            Prueba
+           Ash, me caga Fabro
         </p>
         <%@ include file="cronometro.html" %>
         <br>
