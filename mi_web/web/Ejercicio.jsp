@@ -12,13 +12,13 @@
             Bienvenido a tu primer ejercicio del curso
         </p>
         <p>
-             Instrucciones debes de completar la frase de acuerdo con la primera mitad que se muestre.
+            Instrucciones debes de completar la frase de acuerdo con la primera mitad que se muestre.
         </p>
         <p>
             Despues de leer las instrucciones deberas iniciar el cronometro.
         </p>
-         <p>
-           Ash, a Fabro no le gusta nada...
+        <p>
+            Ash, a Fabro no le gusta nada...
         </p>
         <%@ include file="cronometro.html" %>
         <br>
@@ -53,7 +53,7 @@
             <br>
             <br>
         </form>
-        
+
     </body>
-    
+
 </html>
