@@ -4,6 +4,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/w3.css">
         <script type="text/javascript">
             function cargaURL(url, titulo)
             {
@@ -11,9 +12,8 @@
                 document.getElementById("titulo").innerHTML = titulo;
             }
         </script>
-        <title>JSP Page</title>
     </head>
-    <body onload="cargaURL('Ejercicio.jsp', 'Inicio')">
-        <iframe class="area-desplegado" id="marco-desplegado" name="marco-desplegado" frameborder="0"></iframe>
+    <body onload="cargaURL('ejercicios.html', 'Inicio')">
+        <iframe class="area-desplegado-2" id="marco-desplegado" name="marco-desplegado" frameborder="0"></iframe>
     </body>
 </html>

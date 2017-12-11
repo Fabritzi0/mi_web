@@ -75,3 +75,12 @@ iframe.area-desplegado
    position: fixed;
    overflow: scroll;
 }
+
+iframe.area-desplegado-2
+{
+   top:  0%;
+   width: 100%;
+   height: 100%;
+   position: fixed;
+   overflow: scroll;
+}
