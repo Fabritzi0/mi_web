@@ -23,7 +23,7 @@
         <%@ include file="cronometro.html" %>
         <br>
         <br>
-        <form class="w3-container">
+        <form class="w3-container w3-center">
             <img src="images/piramide.png" class="w3-round" alt="ejercicio2">
             <br>
             <br>
