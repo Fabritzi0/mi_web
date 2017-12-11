@@ -17,6 +17,9 @@
         <p>
             Despues de leer las instrucciones deberas iniciar el cronometro.
         </p>
+         <p>
+            Prueba
+        </p>
         <%@ include file="cronometro.html" %>
         <br>
         <br>
