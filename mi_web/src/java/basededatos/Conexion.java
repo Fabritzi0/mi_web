@@ -18,7 +18,7 @@ public class Conexion {
     private static final String PORT = "3306";
     private static final String DBNAME = "/tiendaflores";
     private static final String USR = "root";
-    private static final String PSW = "db";
+    private static final String PSW = "root";
 
     public Conexion() {
         try {
