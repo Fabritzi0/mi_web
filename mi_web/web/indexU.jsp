@@ -42,9 +42,9 @@
             else
                 out.print("<script>location.replace('login.jsp');</script>");
             %>
-            <a  class="button" onClick="cargaURL('catalogo.jsp', 'Inicio')"><span>Inicio</span></a>
-            <a  class="button" onClick="cargaURL('ejerciciosU.jsp', 'Ejercicios')"><span>Ejercicios</span></a>
             <a  class="button" onClick="cargaURL('AgregarTotal.jsp', 'carrito')"><span>Carrito</span></a>
+            <a  class="button" onClick="cargaURL('ejerciciosU.jsp', 'Ejercicios')"><span>Ejercicios</span></a>
+            <a  class="button" onClick="cargaURL('catalogo.jsp', 'Inicio')"><span>Inicio</span></a>
         </div>
     </head>
     <body onload="cargaURL('catalogo.jsp', 'Inicio')">
