@@ -74,9 +74,9 @@ constraint cveinventarioproducto
 foreign key(clveproducto) references producto(clveproducto));
 
 create table carrito(
-clveproducto'int(3) not null,
+clveproducto int(3) not null,
 cantidad int(3) not null,
-primary key(clveproduto),
+primary key(clveproducto),
 constraint cvecarritoproducto foreign key(clveproducto) references producto(clveproducto));
 
 
