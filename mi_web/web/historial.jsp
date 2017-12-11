@@ -13,12 +13,12 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
-        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="css/w3.css">
     </head>
     <body>
         <div class="w3-container">
-            <h2>Historial de compras.</h2>
-            <p>Arreglos de flores elaborados para esas ocasiones especiales con las personas que quieres.</p>
+            <h2>Historial de alumnos</h2>
+            <p>Lovecraft</p>
             <table class="w3-table-all">
                 <thead>
                     <tr class="w3-red">
