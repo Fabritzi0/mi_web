@@ -10,7 +10,7 @@ public class LoginDAO {
         //Niveles: 1 administrador, 2 usuario.
         try{  
             Connection con=new Conexion().getConexion();  
-            PreparedStatement ps=con.prepareStatement("select * from usuario where nombreusuario=? and contrasena=?");
+            PreparedStatement ps=con.prepareStatement("select * from usuario where nombreusuario=? and contraseña=?");
             ps.setString(1,bean.getEmail());  
             ps.setString(2, bean.getPass());  
             ResultSet rs=ps.executeQuery();  

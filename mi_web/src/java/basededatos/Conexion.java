@@ -16,9 +16,9 @@ public class Conexion {
     private static Connection conexion;
     private static final String SERVER = "jdbc:mysql://localhost:";
     private static final String PORT = "3306";
-    private static final String DBNAME = "/tiendaflores";
+    private static final String DBNAME = "/love";
     private static final String USR = "root";
-    private static final String PSW = "root";
+    private static final String PSW = "";
 
     public Conexion() {
         try {
